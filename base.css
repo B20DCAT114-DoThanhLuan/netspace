@@ -1,0 +1,21 @@
+:root {
+  --text-color: #000;
+  --header-height: 116px;
+}
+
+* {
+  box-sizing: inherit;
+}
+html {
+  font-family: orpheus-pro;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.btn {
+  background-color: #a8a6a1;
+  color: white;
+  padding: 0.6em 1.002em;
+}
